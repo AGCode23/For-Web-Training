@@ -1,7 +1,13 @@
 # README
-## About this repository.
+
+## About this Repository:
+
 This repository includes training files for web development.
-### Sources
-Sources of these programs are all around the internet.
-### P.S.
-Feel free to add more programs to make this repository an all-around training repo.
+
+### Sources:
+
+The sources of these programs are from various locations on the internet.
+
+### P.S.:
+
+Feel free to add more programs to make this repository a comprehensive training resource.
